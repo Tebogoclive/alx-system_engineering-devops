@@ -1,1 +1,1 @@
-Write a script that sets the permission to the file hello file
+Write a script that sets the permission to the file hello with certain permissions
