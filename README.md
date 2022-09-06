@@ -1,1 +1,1 @@
-a script that prints the absolute path name of the current working directory
+Create a script that prints hello user, where user is the current Linux user
